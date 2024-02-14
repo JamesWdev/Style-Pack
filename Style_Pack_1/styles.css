@@ -89,7 +89,7 @@ a li:hover {
   border:3px solid coral;
 }   
 ul a:focus {transition: .3s;}
-ul a:focus {outline: 12.5px solid coral; border-radius: 10px;}
+ul a:focus {outline: 6px solid coral; border-radius: 10px;}
 
 span {
   display: block;
@@ -221,5 +221,5 @@ footer p {
 @media (min-width: 1830px) {
   /* === Tablet Header & Nav  === */
   header p {margin-top: 120px;}
-  nav {margin-top: 21%;}
+  nav {margin-top: 325px;}
 }
